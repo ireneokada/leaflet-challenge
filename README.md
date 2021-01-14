@@ -19,5 +19,5 @@ Challenges included centering zooming such a large area such earthquakes were vi
 
 Earthquake map
 
-![alt text](Leaflet 1\img\earthquakes.png)
+click to render map image
 https://github.com/ireneokada/leaflet-challenge/blob/main/Leaflet%201/img/earthquakes.png
